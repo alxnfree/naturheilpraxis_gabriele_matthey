@@ -1,0 +1,13 @@
+KONZEPT B – NATURHEILPRAXIS GABRIELE MATTHEY
+
+Designrichtung: Editorial / klare Raster / ruhige Petrolflächen
+Farbwelt: Türkis, Petrol, Mint, Weiß und sehr helle neutrale Flächen
+Unterscheidung zu Konzept A:
+- asymmetrischer zweigeteilter Hero mit dunkler Editorial-Fläche
+- deutlichere Typografie und nummerierte Rubriken
+- geradlinige, eher eckige Karten statt kreisförmiger Gestaltung
+- strukturierte Navigationsleiste mit aufklappbaren Untermenüs
+- klare horizontale Informationsabschnitte und kompakter Footer
+- responsive mobile Navigation und mobile Anrufleiste
+
+Dies ist eine Designvorschau. Fotos und rechtliche Angaben fehlen noch und müssen vor einem echten Livegang ergänzt bzw. geprüft werden.
